@@ -1,9 +1,9 @@
-### Accessories
-- Engine Crash Guard - 3500
-- Touring Seat
-- Knuckle Guard
-- Extra Lights
-- Handlebar Riser
-- Extended Visor
-- Main Stand
-- Side Stand Shoe
+### accessories
+- engine crash guard
+- touring seat
+- knuckle guard
+- extra lights
+- handlebar riser
+- extended visor
+- main stand
+- side stand shoe

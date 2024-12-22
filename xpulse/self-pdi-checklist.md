@@ -4,79 +4,79 @@ tags:
   - self-pdi
 ---
 
-### Self Pre Delivery Inspection
+### self pre delivery inspection
 
-**Fitting**
-- [ ] Cables
-- [ ] Engine bolts
-- [ ] Tail light
-- [ ] Rear indicators
-- [ ] Front indicators
+**fitting**
+- [ ] cables
+- [ ] engine bolts
+- [ ] tail light
+- [ ] rear indicators
+- [ ] front indicators
 
-**Leakage**
-- [ ] Oil leakage in the front forks
-- [ ] Engine oil leakage
+**leakage**
+- [ ] oil leakage in the front forks
+- [ ] engine oil leakage
 
-**Buttons Response**
-- [ ] Front and Rear Indicators
-- [ ] Headlights
-- [ ] Taillights
-- [ ] High and low beams
-- [ ] Self start
-- [ ] Kick start
+**buttons response**
+- [ ] front and rear indicators
+- [ ] headlights
+- [ ] taillights
+- [ ] high and low beams
+- [ ] self start
+- [ ] kick start
 
-**Electronics**
-- [ ] Odometer readings (<10)
-- [ ] Bluetooth connectivity
-- [ ] Battery Voltage
+**electronics**
+- [ ] odometer readings (<10)
+- [ ] bluetooth connectivity
+- [ ] battery voltage
 
-**Dents, Scratches, Abrasion, Rust**
-- [ ] Headlamp glass - Swirl Marks
-- [ ] Key slot and the key
-- [ ] The accelerator grip
-- [ ] Brake lever
-- [ ] Handlebar ends
-- [ ] Mirror side
-- [ ] Engine (bolts)
-- [ ] Engine cylinder pipe
-- [ ] Horn
-- [ ] Foot peg (rider, pillion)
-- [ ] Gear shifter
-- [ ] Chain
+**dents, scratches, abrasion, rust**
+- [ ] headlamp glass - swirl marks
+- [ ] key slot and the key
+- [ ] the accelerator grip
+- [ ] brake lever
+- [ ] handlebar ends
+- [ ] mirror side
+- [ ] engine (bolts)
+- [ ] engine cylinder pipe
+- [ ] horn
+- [ ] foot peg (rider, pillion)
+- [ ] gear shifter
+- [ ] chain
 
-**Wiring and Welding Defects**
-- [ ] Cut in the cables (handlebar, clutch cables, fuel tank)
-- [ ] Welding defects between the bike tank and front part
+**wiring and welding defects**
+- [ ] cut in the cables (handlebar, clutch cables, fuel tank)
+- [ ] welding defects between the bike tank and front part
 
-**Paintjob**
-- [ ] Engine
-- [ ] Fuel tank
+**paintjob**
+- [ ] engine
+- [ ] fuel tank
 
-**Dust, Mud**
-- [ ] Silencer
-- [ ] Mudguards
-- [ ] Engine frame from under the bike
-- [ ] Rear suspension rods
+**dust, mud**
+- [ ] silencer
+- [ ] mudguards
+- [ ] engine frame from under the bike
+- [ ] rear suspension rods
 
-**Noise**
-- [ ] Chain noise
-- [ ] Silencer noise
+**noise**
+- [ ] chain noise
+- [ ] silencer noise
 
-**Fluid Levels**
-- [ ] Front brake cylinder
-- [ ] Rear brake cylinder
-- [ ] Engine oil
+**fluid levels**
+- [ ] front brake cylinder
+- [ ] rear brake cylinder
+- [ ] engine oil
 
-**Tyres**
-- [ ] Manufacturing date (week/year)
-- [ ] Tyre threads
+**tyres**
+- [ ] manufacturing date (week/year)
+- [ ] tyre threads
 
-**Extras**
-- [ ] First Aid Kit
-- [ ] Toolbox
-- [ ] Chassis Number - VIN
-- [ ] Battery Date
+**extras**
+- [ ] first aid kit
+- [ ] toolbox
+- [ ] chassis number - vin
+- [ ] battery date
 
-**Test Ride**
-- [ ] Alignment Issues
-- [ ] Front and Rear ABS
+**test ride**
+- [ ] alignment issues
+- [ ] front and rear abs
