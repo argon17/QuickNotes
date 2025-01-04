@@ -9,3 +9,6 @@
 * **noetica**
   * psychology
     * [sunk cost fallacy](/noetica/psychology/sunk-cost-fallacy.md)
+    * [cognitive dissonance](/noetica/psychology/cognitive-dissonance.md)
+  * economics
+    * [boots theory](/noetica/economics/boots-theory.md)
