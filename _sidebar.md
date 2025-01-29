@@ -1,11 +1,10 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/)
-- **Xpulse**
-  - [Self PDI Checklist](/xpulse/self-pdi-checklist.md)
-  - [Bike Accessories](/xpulse/bike-accessories.md)
-- **Trips**
-  - [Wayanad 2.0](/trips/wayanad-2.0.md)
+- **Motorcycles**
+  - [Self PDI Checklist](/motorcycles/self-pdi-checklist.md)
+  - [Bike Accessories](/motorcycles/bike-accessories.md)
+  - [Wayanad 2.0](/motorcycles/wayanad-2.0.md)
 - **Noetica**
   - Psychology
     - [Sunk Cost Fallacy](/noetica/psychology/sunk-cost-fallacy.md)
