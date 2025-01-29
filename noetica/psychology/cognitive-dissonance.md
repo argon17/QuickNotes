@@ -1,9 +1,7 @@
-# cognitive dissonance
-- the **cognitive dissonance** is the mental discomfort people feel when holding two conflicting beliefs or attitudes
-- people often change their beliefs or justify their actions to reduce discomfort.
+# Cognitive Dissonance  
+- **Cognitive dissonance** is the mental discomfort people feel when holding two conflicting beliefs or attitudes.  
+- People often change their beliefs or justify their actions to reduce this discomfort.  
 
-## examples
-- smoking while knowing the fact that it's bad for health
-- eating meat while also knowing that it's ethically wrong to hurt animals
-
----
+## Examples  
+- Smoking while knowing the fact that it's bad for health.  
+- Eating meat while also knowing that it's ethically wrong to hurt animals.  

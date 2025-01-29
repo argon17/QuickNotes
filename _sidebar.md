@@ -1,21 +1,22 @@
 <!-- docs/_sidebar.md -->
 
-* [home](/)
-* **xpulse**
-  * [self pdi checklist](/xpulse/self-pdi-checklist.md)
-  * [bike accessories](/xpulse/bike-accessories.md)
-* **trips**
-  * [wayanad 2.0](/trips/wayanad-2.0.md)
-* **noetica**
-  * psychology
-    * [sunk cost fallacy](/noetica/psychology/sunk-cost-fallacy.md)
-    * [cognitive dissonance](/noetica/psychology/cognitive-dissonance.md)
-    * [dunning kruger effect](/noetica/psychology/dunning-kruger.md)
-    * [spotlight effect](/noetica/psychology/spotlight-effect.md)
-    * [halo effect](/noetica/psychology/halo-effect.md)
-    * [anchoring bias](/noetica/psychology/achoring-bias.md)
-    * [placebo effect](/noetica/psychology/placebo-effect.md)
-    * [projection bias](/noetica/psychology/projection-bias.md)
-    * [reactance theory](/noetica/psychology/reactance-theory.md)
-  * economics
-    * [boots theory](/noetica/economics/boots-theory.md)
+- [Home](/)
+- **Xpulse**
+  - [Self PDI Checklist](/xpulse/self-pdi-checklist.md)
+  - [Bike Accessories](/xpulse/bike-accessories.md)
+- **Trips**
+  - [Wayanad 2.0](/trips/wayanad-2.0.md)
+- **Noetica**
+  - Psychology
+    - [Sunk Cost Fallacy](/noetica/psychology/sunk-cost-fallacy.md)
+    - [Cognitive Dissonance](/noetica/psychology/cognitive-dissonance.md)
+    - [Dunning-Kruger Effect](/noetica/psychology/dunning-kruger.md)
+    - [Spotlight Effect](/noetica/psychology/spotlight-effect.md)
+    - [Halo Effect](/noetica/psychology/halo-effect.md)
+    - [Anchoring Bias](/noetica/psychology/achoring-bias.md)
+    - [Placebo Effect](/noetica/psychology/placebo-effect.md)
+    - [Projection Bias](/noetica/psychology/projection-bias.md)
+    - [Reactance Theory](/noetica/psychology/reactance-theory.md)
+    - [Hedgehog's Dilemma](/noetica/psychology/hedgehogs-dilemma.md)
+  - Economics
+    - [Boots Theory](/noetica/economics/boots-theory.md)
