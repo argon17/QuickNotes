@@ -3,7 +3,6 @@
 - [Home](/)
 - **Motorcycles**
   - [Self PDI Checklist](/motorcycles/self-pdi-checklist.md)
-  - [Bike Accessories](/motorcycles/bike-accessories.md)
   - [Wayanad 2.0](/motorcycles/wayanad-2.0.md)
 - **Noetica**
   - Psychology
