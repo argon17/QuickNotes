@@ -18,3 +18,5 @@
     - [Hedgehog's Dilemma](/noetica/psychology/hedgehogs-dilemma.md)
   - Economics
     - [Boots Theory](/noetica/economics/boots-theory.md)
+  - Medicines
+    - [HyperTension](/noetica/medicines/hypertension.md)
