@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "quicknotes-argon"
-  }
+  },
+  "targets": {
+    "quicknotes-argon": {
+      "hosting": {
+        "quicknotes": [
+          "quicknotes"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
